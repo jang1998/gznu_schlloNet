@@ -5,8 +5,8 @@ import time
 class Login_school:
     def __init__(self):
         self.url = 'http://1.1.1.3/ac_portal/20191008142058/pc.html?template=20191008142058&tabs=pwd&vlanid=0&_ID_=0&switch_url=&url=http://1.1.1.3/homepage/index.html&policy=userself-reg&policy_type=account&controller_type=&mac=fc-d7-33-77-1a-af'
-        self.username = "20010210628"
-        self.password = "a123456789"
+        self.username = "****"
+        self.password = "****"
 
     # 判断当前是否可以连网
     def is_connect_web(self):
